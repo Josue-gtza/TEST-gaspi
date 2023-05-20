@@ -1,0 +1,25 @@
+{
+    "providers": [
+      {"id": 1, "Nombre": "Proveedor 1", "Razón Social": "Razón Social 1", "Dirección": "Dirección 1"},
+      {"id": 2, "Nombre": "Proveedor 2", "Razón Social": "Razón Social 2", "Dirección": "Dirección 2"},
+      {"id": 3, "Nombre": "Proveedor 3", "Razón Social": "Razón Social 3", "Dirección": "Dirección 3"},
+      {"id": 4, "Nombre": "Proveedor 4", "Razón Social": "Razón Social 4", "Dirección": "Dirección 4"},
+      {"id": 5, "Nombre": "Proveedor 5", "Razón Social": "Razón Social 5", "Dirección": "Dirección 5"},
+      {"id": 6, "Nombre": "Proveedor 6", "Razón Social": "Razón Social 6", "Dirección": "Dirección 6"},
+      {"id": 7, "Nombre": "Proveedor 7", "Razón Social": "Razón Social 7", "Dirección": "Dirección 7"},
+      {"id": 8, "Nombre": "Proveedor 8", "Razón Social": "Razón Social 8", "Dirección": "Dirección 8"},
+      {"id": 9, "Nombre": "Proveedor 9", "Razón Social": "Razón Social 9", "Dirección": "Dirección 9"},
+      {"id": 10, "Nombre": "Proveedor 10", "Razón Social": "Razón Social 10", "Dirección": "Dirección 10"},
+      {"id": 11, "Nombre": "Proveedor 11", "Razón Social": "Razón Social 11", "Dirección": "Dirección 11"},
+      {"id": 12, "Nombre": "Proveedor 12", "Razón Social": "Razón Social 12", "Dirección": "Dirección 12"},
+      {"id": 13, "Nombre": "Proveedor 13", "Razón Social": "Razón Social 13", "Dirección": "Dirección 13"},
+      {"id": 14, "Nombre": "Proveedor 14", "Razón Social": "Razón Social 14", "Dirección": "Dirección 14"},
+      {"id": 15, "Nombre": "Proveedor 15", "Razón Social": "Razón Social 15", "Dirección": "Dirección 15"},
+      {"id": 16, "Nombre": "Proveedor 16", "Razón Social": "Razón Social 16", "Dirección": "Dirección 16"},
+      {"id": 17, "Nombre": "Proveedor 17", "Razón Social": "Razón Social 17", "Dirección": "Dirección 17"},
+      {"id": 18, "Nombre": "Proveedor 18", "Razón Social": "Razón Social 18", "Dirección": "Dirección 18"},
+      {"id": 19, "Nombre": "Proveedor 19", "Razón Social": "Razón Social 19", "Dirección": "Dirección 19"},
+      {"id": 20, "Nombre": "Proveedor 20", "Razón Social": "Razón Social 20", "Dirección": "Dirección 20"}
+    ]
+  }
+  
